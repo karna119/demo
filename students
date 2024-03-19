@@ -1,0 +1,7 @@
+{
+  "customer": {
+    "id": "10",
+    "name": "customer name",
+    "age": "28"
+  }
+}
